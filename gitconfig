@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julieveran31@gmail.com
+	name = Julie Veran
